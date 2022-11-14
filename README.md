@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Benitha-cyber
+- 👋 Hi, I’m @Benitha
 - 👀 I’m interested in software Engineering
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on different projects I will be working on
+- 💞️ I’m looking to collaborate on different projects I will be working on.
 - 📫 Reach me via beniemasters1@gmail.com
 
 <!---
